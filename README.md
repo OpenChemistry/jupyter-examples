@@ -1,7 +1,7 @@
 # Open Chemistry JupyterLab Examples
 
 This repository contains a number of notebooks created using the
-[Open Chemistry][openchemistry] projects to create notebooks that can be run
+[Open Chemistry][openchem] projects to create notebooks that can be run
 locally and/or within Binder. The binder directory shows what Python 3 modules
 are needed, and the JupyterLab extension necessary to make everything work.
 
